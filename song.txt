@@ -4,3 +4,5 @@
 Песенку весёлую напевает нам.
 
 FEATURE commit 1
+
+FEATURE commit 2
